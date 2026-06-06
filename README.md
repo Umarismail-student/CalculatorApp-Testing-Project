@@ -106,3 +106,25 @@ The repository includes:
 
 \- Merged pull requests
 
+
+
+\## Coverage Report
+
+
+
+The HTML coverage report is included in the repository. It shows the current line and branch coverage for the calculator application.
+
+
+
+The current coverage results are:
+
+
+
+\- Line coverage: 50%
+
+\- Branch coverage: 38.8%
+
+
+
+This helps identify which parts of the code are tested and which parts can be improved with additional tests.
+
